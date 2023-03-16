@@ -1,0 +1,14 @@
+######################################## version update V1.3 ########################################
+- added tagdirectory mapping stats to QC analysis
+- removed homer mapping stats prgram. it was unable to identify files and didn't produce meaninngful results
+- changed vaguely named "stats" file to "mapping_stats.txt"
+- created this changelog to keep track of progress and... well... changes...
+- remove RNA length distribution from outputted graphs
+
+######################################## version update V1.2 ########################################
+- major bugfixing and dunctionality changes
+- fixed grah names flowing off the edges of pages
+- Added STAR aligner to the program to work with samples and experiemnts that
+require it
+
+
